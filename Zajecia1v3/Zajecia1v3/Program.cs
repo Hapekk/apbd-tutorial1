@@ -4,5 +4,6 @@
     {
         Console.WriteLine("Uruchom!");
         Console.WriteLine("2!");
+        Console.WriteLine("======--=-");
     }
 }
