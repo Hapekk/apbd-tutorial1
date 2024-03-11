@@ -6,4 +6,9 @@
         Console.WriteLine("2!");
         Console.WriteLine("======--=-");
     }
+
+    public static void CalcAvg(int[] arr)
+    {
+        
+    }
 }
