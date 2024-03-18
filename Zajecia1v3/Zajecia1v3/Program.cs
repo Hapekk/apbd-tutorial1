@@ -20,7 +20,7 @@
         return sum/arr.Length;
     }
     public static double CalcMax(int[] arr)
-    {   int max=arr[0];
+    {   int max = arr[0];
         if (arr == null || arr.Length == 0)
         {
             throw new ArgumentException("Tablica jest pusta");
